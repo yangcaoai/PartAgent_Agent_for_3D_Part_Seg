@@ -3,7 +3,7 @@
 > [Yang Cao](https://yangcaoai.github.io/)<sup>1</sup>, [Zhe Zhu](https://czvvd.github.io/homepage/)<sup>2</sup>, [Yiheng Zhang](https://graphic-kiliani.github.io/homepage/)<sup>1</sup>, [Zhengqiang Zhang](https://xtudbxk.github.io/)<sup>3</sup>, [Haoyuan Li](https://scholar.google.com/citations?user=ccgdLGsAAAAJ)<sup>4</sup>, [Le Wan](https://openreview.net/profile?id=~Le_Wan1)<sup>2</sup>, [Dan Xu](https://www.danxurgb.net/)<sup>1,*</sup>
 >
 > <sup>1</sup> Hong Kong University of Science and Technology<br>
-> <sup>2</sup> Tencent<br>
+> <sup>2</sup> Tencent
 > <sup>3</sup> Hong Kong Polytechnic University<br>
 > <sup>4</sup> Sun Yat-sen University
 
