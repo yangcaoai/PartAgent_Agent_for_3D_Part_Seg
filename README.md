@@ -16,7 +16,7 @@
 
 ## 🚩 Updates
 
-- The paper is available on [arXiv](https://arxiv.org/pdf/2611.32554) and [Hugging Face](https://huggingface.co/papers/2611.32554). Demos are shown in [project page](https://yangcaoai.github.io/PartAgent_ProjectPage/)
+- The paper is available on [arXiv](https://arxiv.org/pdf/2611.32554) and [Hugging Face](https://huggingface.co/papers/2611.32554). Demos are shown in [project page](https://yangcaoai.github.io/PartAgent_ProjectPage/).
 - The code has not yet been released. Please stay tuned for updates.
 
 ## Framework
