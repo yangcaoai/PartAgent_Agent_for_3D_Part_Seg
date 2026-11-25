@@ -9,7 +9,7 @@
 > <sup>3</sup> Hong Kong Polytechnic University<br>
 > <sup>4</sup> Sun Yat-sen University
 
-**[🌐 Project Page](https://yangcaoai.github.io/PartAgent_ProjectPage/) · [📄 Paper](https://arxiv.org/pdf/2611.32554) · [Hugging Face](https://huggingface.co/papers/2611.32554)**
+**[🌐 Project Page](https://yangcaoai.github.io/PartAgent_ProjectPage/) · [📄 Paper](https://arxiv.org/pdf/2611.32554) · [🤗 Hugging Face](https://huggingface.co/papers/2611.32554)**
 
 [![Characters, creatures, vehicles, and everyday objects segmented by PartAgent. Select the image to watch the showcase.](assets/showcase-poster.webp)](https://yangcaoai.github.io/PartAgent_ProjectPage/#showcase)
 
