@@ -9,13 +9,13 @@
 > <sup>3</sup> Hong Kong Polytechnic University<br>
 > <sup>4</sup> Sun Yat-sen University
 
-**[📄 Paper](https://arxiv.org/pdf/2611.32554) · [🌐 Project Page](https://yangcaoai.github.io/PartAgent_ProjectPage/)**
+**[🌐 Project Page](https://yangcaoai.github.io/PartAgent_ProjectPage/) · [📄 Paper](https://arxiv.org/pdf/2611.32554) · [HF](https://huggingface.co/papers/2611.32554)**
 
 [![Characters, creatures, vehicles, and everyday objects segmented by PartAgent. Select the image to watch the showcase.](assets/showcase-poster.webp)](https://yangcaoai.github.io/PartAgent_ProjectPage/#showcase)
 
 ## 🚩 Updates
 
-- The [paper](https://arxiv.org/pdf/2611.32554) is available on arXiv. Demos are shown in [project page](https://yangcaoai.github.io/PartAgent_ProjectPage/)
+- The paper is available on [arXiv](https://arxiv.org/pdf/2611.32554) and [HuggingFace](https://huggingface.co/papers/2611.32554). Demos are shown in [project page](https://yangcaoai.github.io/PartAgent_ProjectPage/)
 - The code has not yet been released. Please stay tuned for updates.
 
 ## Framework
