@@ -64,6 +64,4 @@ For questions, please contact [Yang Cao](mailto:yangcao.cs@gmail.com).
 
 We sincerely thank the authors of the following projects for sharing their research and resources with the community:
 
-[P3-SAM](https://murcherful.github.io/P3-SAM/), [Part-SAM](https://github.com/czvvd/PartSAM) [PartField](https://github.com/nv-tlabs/PartField), [SAMPart3D](https://github.com/Pointcept/SAMPart3D), [Find3D](https://github.com/ziqi-ma/Find3D), etc
-
-We also thank the teams behind [3DCoMPaT200](https://huggingface.co/datasets/CoMPaT/3DCoMPaT200), [PartNeXt](https://huggingface.co/datasets/AuWang/PartNeXt), [PartNetE](https://huggingface.co/datasets/minghua/PartSLIP/tree/main), and [PartObjaverse-Tiny](https://huggingface.co/datasets/yhyang-myron/PartObjaverse-Tiny) for sharing the datasets used to evaluate PartAgent.
+[P3-SAM](https://murcherful.github.io/P3-SAM/), [Part-SAM](https://github.com/czvvd/PartSAM) [PartField](https://github.com/nv-tlabs/PartField), [SAMPart3D](https://github.com/Pointcept/SAMPart3D), [Find3D](https://github.com/ziqi-ma/Find3D), [3DCoMPaT200](https://huggingface.co/datasets/CoMPaT/3DCoMPaT200), [PartNeXt](https://huggingface.co/datasets/AuWang/PartNeXt), [PartNetE](https://huggingface.co/datasets/minghua/PartSLIP/tree/main), [PartObjaverse-Tiny](https://huggingface.co/datasets/yhyang-myron/PartObjaverse-Tiny), etc.
