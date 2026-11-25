@@ -1,5 +1,7 @@
 # 🤖 PartAgent: Agentic 3D Part Segmentation via Expert Integration and Closed-Loop Refinement
 
+⭐ If you find PartAgent interesting, please consider starring this repository. Thank you!
+
 > [Yang Cao](https://yangcaoai.github.io/)<sup>1</sup>, [Zhe Zhu](https://czvvd.github.io/homepage/)<sup>2</sup>, [Yiheng Zhang](https://graphic-kiliani.github.io/homepage/)<sup>1</sup>, [Zhengqiang Zhang](https://xtudbxk.github.io/)<sup>3</sup>, [Haoyuan Li](https://scholar.google.com/citations?user=ccgdLGsAAAAJ)<sup>4</sup>, [Le Wan](https://openreview.net/profile?id=~Le_Wan1)<sup>2</sup>, [Dan Xu](https://www.danxurgb.net/)<sup>1,*</sup>
 >
 > <sup>1</sup> Hong Kong University of Science and Technology<br>
@@ -11,7 +13,7 @@
 
 [![Characters, creatures, vehicles, and everyday objects segmented by PartAgent. Select the image to watch the showcase.](assets/showcase-poster.webp)](https://yangcaoai.github.io/PartAgent_ProjectPage/#showcase)
 
-## Updates
+## 🚩 Updates
 
 - The [paper](https://arxiv.org/pdf/2611.32554) is available on arXiv. Demos are shown in [project page](https://yangcaoai.github.io/PartAgent_ProjectPage/)
 - The code has not yet been released. Please stay tuned for updates.
@@ -37,7 +39,7 @@ On the decorative fish below, PartAgent keeps the dorsal fin and the tail fin as
 
 [![Five segmentations of the same decorative fish from the same viewpoint, with PartAgent on the right.](assets/fig6-fish.webp)](https://yangcaoai.github.io/PartAgent_ProjectPage/#comparisons)
 
-## BibTeX
+## 📜 BibTeX
 
 ```bibtex
 @article{cao2026partagent,
@@ -48,3 +50,13 @@ On the decorative fish below, PartAgent keeps the dorsal fin and the tail fin as
   year = {2026}
 }
 ```
+
+## 📧 Contact
+
+For questions, please contact [Yang Cao](mailto:yangcao.cs@gmail.com).
+
+## 📜 Sincere Acknowledgement
+
+We sincerely thank the authors of the following projects for sharing their research and resources with the community:
+
+[P3-SAM](https://murcherful.github.io/P3-SAM/), [Part-SAM](https://github.com/czvvd/PartSAM) [PartField](https://github.com/nv-tlabs/PartField), [SAMPart3D](https://github.com/Pointcept/SAMPart3D), [Find3D](https://github.com/ziqi-ma/Find3D), etc
