@@ -35,9 +35,13 @@ PartAgent achieves the highest **Mask Match mIoU** among the compared methods on
 
 On PartObjaverse-Tiny-WT, PartAgent leads the strongest competing method by **8.53 points**. Across the other four datasets, its mean of **69.36** exceeds the best competing method’s mean of **62.08** by **7.28 points**. [Full benchmark tables](https://yangcaoai.github.io/PartAgent_ProjectPage/#results)
 
-On the decorative fish below, PartAgent keeps the dorsal fin and the tail fin as one part each. From left to right, the methods are **SAMPart3D**, **PartField**, **P3-SAM**, **PartSAM**, and **PartAgent**.
+The rows show a decorative fish, a water well, and a wooden chest, each viewed from the same angle across methods. From left to right, the methods are **SAMPart3D**, **PartField**, **P3-SAM**, **PartSAM**, and **PartAgent**.
 
 [![Five segmentations of the same decorative fish from the same viewpoint, with PartAgent on the right.](assets/fig6-fish.webp)](https://yangcaoai.github.io/PartAgent_ProjectPage/#comparisons)
+
+[![Five segmentations of a water well. PartAgent separates the roof fittings from the roof surface.](assets/fig6-well.webp)](https://yangcaoai.github.io/PartAgent_ProjectPage/#comparisons)
+
+[![Five segmentations of a wooden chest. PartAgent separates the lid from the body and keeps the handle and latch distinct.](assets/fig6-chest.webp)](https://yangcaoai.github.io/PartAgent_ProjectPage/#comparisons)
 
 ## 📜 BibTeX
 
