@@ -11,7 +11,8 @@
 
 **[🌐 Project Page](https://yangcaoai.github.io/PartAgent_ProjectPage/) · [📄 Paper](https://arxiv.org/pdf/2611.32554) · [🤗 Hugging Face](https://huggingface.co/papers/2611.32554)**
 
-[![Characters, creatures, vehicles, and everyday objects segmented by PartAgent. Select the image to watch the showcase.](assets/showcase-poster.webp)](https://yangcaoai.github.io/PartAgent_ProjectPage/#showcase)
+<img width="1341" height="727" alt="image" src="https://github.com/user-attachments/assets/2e1bb9a3-efd9-4071-a857-1f6260e84d0f" />
+
 
 ## 🚩 Updates
 
